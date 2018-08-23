@@ -26,10 +26,8 @@ function johnLennonFacts(facts){
     let myArray = [];
     do {
       number++
-      return "I love the Beatles!";
-    } while (number < 15) {
-      number++
-   }
+      return myArray.push"I love the Beatles!";
+    } while (number < 15) 
   }
       
   
